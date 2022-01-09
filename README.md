@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**umang350/umang350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Developer working in Tokyo, Japan.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Working in the largest clothing brand of the world;
+- 🧗 Planing the projects, teams and success;
+- 💻 Creating content on [YouTube](https://www.youtube.com/GetSaged)
+
+##### BIO
+
+- 🏢 I'm currently working at **Fast Retailing**
+- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.css`, `.pproj`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Indian YouTube Community**
+- 🌱 Learning all about **Everything**
+- 💬 Ping me about **planning**, **creating solutions**, **design**, **development**, **design thinking**
+- 📫 Reach me: [instagram.com/thisumang](https://instagram.com/thisumang)
