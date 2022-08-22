@@ -16,3 +16,6 @@
 - 🌱 Learning all about **Everything**
 - 💬 Ping me about **planning**, **creating solutions**, **design**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/thisumang](https://instagram.com/thisumang)
+
+#### JOKE
+![Jokes Card](https://readme-jokes.vercel.app/api)
