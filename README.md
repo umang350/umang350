@@ -17,5 +17,9 @@
 - 💬 Ping me about **planning**, **creating solutions**, **design**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/thisumang](https://instagram.com/thisumang)
 
+##### STATS
+
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umang350&show_icons=true)
+
 #### JOKE
 ![Jokes Card](https://readme-jokes.vercel.app/api)
