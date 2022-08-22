@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Developer working in Tokyo, Japan.
+#### I'm a Software Developer working in Fast Retailing (UNIQLO), Tokyo, Japan.
 
 ##### NOW
 
